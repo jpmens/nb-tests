@@ -1,0 +1,23 @@
+[
+  {
+    "cc": "PT",
+    "lat": "32.697899",
+    "lon": "-16.7745",
+    "iata": "FNC",
+    "name": "Madeira International Airport Cristiano Ronaldo"
+  },
+  {
+    "cc": "AU",
+    "lat": "-27.384199142456055",
+    "lon": "153.11700439453125",
+    "iata": "BNE",
+    "name": "Brisbane International Airport"
+  },
+  {
+    "cc": "FR",
+    "lat": "45.725556",
+    "lon": "5.081111",
+    "iata": "LYS",
+    "name": "Lyon Saint-Exupéry Airport"
+  }
+]
